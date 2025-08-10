@@ -77,9 +77,6 @@ Data Source
 More info that data comes from and how it's structured
 Example
 Source: BlinkIT Grocery Data
-📷 Dashboard Preview
-
-https://github.com/zeninkloudz/blinkit-Dashboard/blob/main/dashboard%20snapshort.PNG
 
   📂 Project Structure
 
@@ -89,3 +86,7 @@ Blinkit-Sales-Dashboard/
 ├── Blinkit_Dashboard.pbix   # Power BI file
 ├── images/             # Screenshots of dashboard
 └── README.md           # Project documentation
+
+📷 Dashboard Preview
+
+https://github.com/zeninkloudz/blinkit-Dashboard/blob/main/dashboard%20snapshort.PNG
