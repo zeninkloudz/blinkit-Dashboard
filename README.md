@@ -89,4 +89,4 @@ Blinkit-Sales-Dashboard/
 
 📷 Dashboard Preview
 
-(https://github.com/zeninkloudz/blinkit-Dashboard/blob/main/dashboard%20snapshort.PNG)
+![Dashboard Preview](https://github.com/zeninkloudz/blinkit-Dashboard/blob/main/dashboard%20snapshort.PNG)
