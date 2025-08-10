@@ -79,6 +79,7 @@ Example
 Source: BlinkIT Grocery Data
 📷 Dashboard Preview
 
+https://github.com/zeninkloudz/blinkit-Dashboard/blob/main/dashboard%20snapshort.PNG
 
   📂 Project Structure
 
